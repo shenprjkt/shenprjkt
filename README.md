@@ -34,7 +34,7 @@
 <br></br>
 <p align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arimakana-Lab&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenprjkt&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 - **Languages**:
     <br></br>
