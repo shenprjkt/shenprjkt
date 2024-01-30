@@ -35,26 +35,6 @@
 <p align="center">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenprjkt&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-
-- **Languages**:
-    <br></br>
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
-    <br></br>
-- **Other Skills**: 
-    <br></br>
-    [![My Skills](https://skillicons.dev/icons?i=bash,githubactions,git,ruby)](https://skillicons.dev)
-    <br></br>
-- **Platform**: 
-    <br></br>
-    [![My Skills](https://skillicons.dev/icons?i=github,gitlab,gcp,ae)](https://skillicons.dev)
-    <br></bR>
-    
-   **Editors**:
-    <br></br>
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-    <br></br>  
     
 <br>
 
