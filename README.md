@@ -13,7 +13,7 @@
 - "My hobby is watching anime"
 - "I like Vocaloid"
 
-### My site 
+### My stuff
 [all android releases](https://shenprjkt.github.io/) |
 [all kernel releases](https://github.com/Renzprjkt/Kernel_Archive) |
 [Discussion and development groups](https://t.me/renzprjkt)
