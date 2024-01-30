@@ -14,9 +14,9 @@
 - "I like Vocaloid"
 
 ### My site 
-[Miku 初音ミク ](https://lit.link/en/shenprjkt) |
-[all my releases](https://t.me/kanaarimalab) |
-[Discussion and development groups](https://t.me/shenprjkt)
+[all android releases](https://shenprjkt.github.io/) |
+[all kernel releases](https://github.com/Renzprjkt/Kernel_Archive) |
+[Discussion and development groups](https://t.me/renzprjkt)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
