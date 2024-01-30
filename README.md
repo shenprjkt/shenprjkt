@@ -29,12 +29,6 @@
 ![Xiaomi Redmi 5](https://img.shields.io/badge/Xiaomi%20Redmi%205-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Xiaomi Redmi 5 Plus](https://img.shields.io/badge/Xiaomi%20Redmi%205%20Plus-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Xiaomi Redmi Note 5 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%205%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br></br>
-<p align="center">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenprjkt&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
     
 <br>
 
