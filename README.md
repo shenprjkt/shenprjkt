@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="[img/kurumi.png]" width="130px"/> 
+<img align="left" src="img/kurumi1.png" width="222px"/> 
 
 ```csharp
 Renz@Ameru
@@ -23,7 +23,7 @@ Girlfriend: Kurumi Tokisaki ❤️.
 <p>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
 
