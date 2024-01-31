@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="[https://github.com/shenprjkt/girlfriend/blob/android-12.1/pngwing.com.png]" width="130px"/> 
+<img align="left" src="[img/kurumi.png]" width="130px"/> 
 
 ```csharp
 Renz@Ameru
