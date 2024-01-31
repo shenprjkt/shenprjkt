@@ -1,5 +1,26 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://shenprjkt.io)
-</p>
+```zsh
+> neofetch
+```
+
+<img align="left" src="[https://github.com/shenprjkt/girlfriend/blob/android-12.1/pngwing.com.png]" width="130px"/> 
+
+```csharp
+Renz@Ameru
+---------------------------------------------------
+Username: Shandy Reynaldi.
+OS: Garuda Linux "Hyprland"
+Shell: bash 5.1.16
+Languages: C++, C.
+Terminal: Garuda Terminal.
+CPU: Intel Xeon E5-2690 (8) @ 3.800GHz.
+Memory : 297MiB / 15906MiB
+Telegram: @RenzSG.
+Learning : Android, Kotlin.
+Hobbies: Book, Music, and Gaming.
+Girlfriend: Kurumi Tokisaki ❤️.
+
+```
+<p>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
