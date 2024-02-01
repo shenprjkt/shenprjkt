@@ -58,7 +58,7 @@ Girlfriend: Kurumi Tokisaki ❤️.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shenprjkt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shenprjkt&theme=youtube-dark)](https://git.io/streak-stats)
 
 </div>
 
