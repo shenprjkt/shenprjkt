@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/kurumi1.png" width="190px"/> 
+<img align="left" src="img/test.png" width="230px"/> 
 
 ```csharp
 Renz@Ameru
@@ -14,12 +14,17 @@ Languages: C++, C.
 Terminal: Garuda Terminal.
 CPU: Intel Xeon E5-2690 (8) @ 3.800GHz.
 Memory : 297MiB / 15906MiB
-Telegram: @RenzSG.
+Telegram: @Shiinaeru.
 Learning : Android, Kotlin.
-Hobbies: Book, Music, and Gaming.
-Girlfriend: Kurumi Tokisaki ❤️.
+Hobbies: Novel, Book, Music, and Gaming.
+Girlfriend: Shiina Mashiro ❤️.
 
 ```
+```zsh
+> repo init -u https://github.com/Renzprjkt/manifesto -b Mashiro
+```
+
+<img align="center" src="img/Shina_out.png" width="900px"/> 
 <p>
 
 
