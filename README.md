@@ -24,7 +24,7 @@ Girlfriend: Shiina Mashiro ❤️.
 > repo init -u https://github.com/Renzprjkt/manifesto -b Mashiro
 ```
 
-<img align="center" src="img/miku.png" width="990px"/> 
+<img align="center" src="img/miku.png" width="1000px"/> 
 <p>
 
 
