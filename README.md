@@ -50,8 +50,8 @@ Girlfriend: Shiina Mashiro ❤️.
 
 ### 📱 Devices Support
 ![MI8953](https://img.shields.io/badge/Xiaomi%20MSM8953-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![Xiaomi Redmi 5 Plus](https://img.shields.io/badge/Xiaomi%20Redmi%205%20Plus-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![Xiaomi Redmi Note 5 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%205%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![MI6765](https://img.shields.io/badge/Xiaomi%20MT6765-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![MI8956](https://img.shields.io/badge/Xiaomi%20MSM8956-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
     
 <br>
 
