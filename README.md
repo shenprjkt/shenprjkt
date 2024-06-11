@@ -37,8 +37,10 @@ Girlfriend: Shiina Mashiro ❤️.
 - "I like Vocaloid"
 
 <div align="center"> 
+    
 ### I Hate Computers
 ![counter](https://moe-counter.es3n1n.eu/get/@shenprjkt)
+
 </div>
 
 
