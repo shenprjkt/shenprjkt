@@ -21,9 +21,11 @@ Girlfriend: Shiina Mashiro ❤️.
 
 ```
 <div align="center">
+
 ```zsh
 > repo init -u https://github.com/Renzprjkt/manifesto -b Mashiro
 ```
+
 </div>
 
 
