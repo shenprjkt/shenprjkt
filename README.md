@@ -20,8 +20,9 @@ Hobbies: Novel, Book, Music, and Gaming.
 Girlfriend: Shiina Mashiro ❤️.
 
 ```
-<br>
-<br>
+```zsh
+> My Stats LOL
+```
 
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
@@ -38,7 +39,9 @@ Girlfriend: Shiina Mashiro ❤️.
 <div align="center">
   
 ### I Hate Computers
+<div width="500px">
 ![counter](https://moe-counter.es3n1n.eu/get/@shenprjkt)
+</div>
 
 </div>
 
