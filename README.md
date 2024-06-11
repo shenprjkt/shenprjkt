@@ -1,10 +1,3 @@
-<div align="center"> 
-    
-### I Hate Computers
-<img src=https://moe-counter.es3n1n.eu/get/@shenprjkt width="500px" />
-
-</div>
-
 ```zsh
 > neofetch
 ```
@@ -44,11 +37,6 @@ Girlfriend: Shiina Mashiro ❤️.
 - "I like Vocaloid"
 
 
-### My stuff
-[all android releases](https://shenprjkt.github.io/) |
-[all kernel releases](https://github.com/Renzprjkt/Kernel_Archive) |
-[Discussion and development groups](https://t.me/renzprjkt)
-
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
@@ -60,6 +48,14 @@ Girlfriend: Shiina Mashiro ❤️.
 ![MI8953](https://img.shields.io/badge/Xiaomi%20MSM8953-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![MI6765](https://img.shields.io/badge/Xiaomi%20MT6765-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![MI8956](https://img.shields.io/badge/Xiaomi%20MSM8956-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+
+<div align="center"> 
+    
+### I Hate Computers
+<img src=https://moe-counter.es3n1n.eu/get/@shenprjkt width="500px" />
+
+</div>
+
     
 <br>
 
