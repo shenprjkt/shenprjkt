@@ -36,14 +36,14 @@ Girlfriend: Shiina Mashiro ❤️.
 - "My hobby is watching anime"
 - "I like Vocaloid"
 
-<div align="center">
-  
+<div align="center"> 
 ### I Hate Computers
+</div>
 <div width="500px">
 ![counter](https://moe-counter.es3n1n.eu/get/@shenprjkt)
 </div>
 
-</div>
+
 
 ### My stuff
 [all android releases](https://shenprjkt.github.io/) |
