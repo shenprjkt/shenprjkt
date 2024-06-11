@@ -40,7 +40,7 @@ Girlfriend: Shiina Mashiro ❤️.
     
 ### I Hate Computers
     
-<img src=https://moe-counter.es3n1n.eu/get/@shenprjkt width="1000px" />
+<img src=https://moe-counter.es3n1n.eu/get/@shenprjkt width="500px" />
 
 </div>
 
