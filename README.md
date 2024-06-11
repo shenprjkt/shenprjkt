@@ -20,13 +20,10 @@ Hobbies: Novel, Book, Music, and Gaming.
 Girlfriend: Shiina Mashiro ❤️.
 
 ```
-<div align="center">
+<br>
 
-```zsh
-> repo init -u https://github.com/Renzprjkt/manifesto -b Mashiro
-```
-
-</div>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> My Stats </b>
+<br>
 
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
