@@ -20,6 +20,11 @@ Hobbies: Novel, Book, Music, and Gaming.
 Girlfriend: Shiina Mashiro ❤️.
 
 ```
+```zsh
+<div align="center">
+> repo init -u https://github.com/Renzprjkt/manifesto -b Mashiro
+</div>
+```
 
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
@@ -32,9 +37,13 @@ Girlfriend: Shiina Mashiro ❤️.
 - A staunch communist
 - "My hobby is watching anime"
 - "I like Vocaloid"
+
+<div align="center">
   
 ### I Hate Computers
 ![counter](https://moe-counter.es3n1n.eu/get/@shenprjkt)
+
+</div>
 
 ### My stuff
 [all android releases](https://shenprjkt.github.io/) |
