@@ -20,11 +20,11 @@ Hobbies: Novel, Book, Music, and Gaming.
 Girlfriend: Shiina Mashiro ❤️.
 
 ```
-```zsh
 <div align="center">
+```zsh
 > repo init -u https://github.com/Renzprjkt/manifesto -b Mashiro
-</div>
 ```
+</div>
 
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
