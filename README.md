@@ -36,6 +36,9 @@ Girlfriend: Shiina Mashiro ❤️.
 - "My hobby is watching anime"
 - "I like Vocaloid"
 
+```zsh
+> 
+```
 
 
 <div align="center"> 
