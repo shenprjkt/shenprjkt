@@ -21,8 +21,6 @@ Girlfriend: Shiina Mashiro ❤️.
 
 ```
 <br>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> My Stats </b>
 <br>
 
 
