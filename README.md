@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/kana.png" width="370px"/> 
+<img align="left" src="img/kana.png" width="350px"/> 
 
 ```csharp
 Renz@Ameru
