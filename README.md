@@ -17,7 +17,7 @@ Memory : 297MiB / 15906MiB
 Telegram: @Shiinaeru.
 Learning : Android, Kotlin.
 Hobbies: Novel, Book, Music, and Gaming.
-Girlfriend: Shiina Mashiro ❤️.
+Girlfriend: Kana Arima ❤️.
 
 ```
 ```zsh
