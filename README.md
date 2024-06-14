@@ -51,7 +51,7 @@ Girlfriend: Kana Arima ❤️.
 
 <div align="center"> 
     
-### Hi Everyone
+### Visitors
 <img src=https://moe-counter.es3n1n.eu/get/@shenprjkt width="500px" />
 
 </div>
