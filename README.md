@@ -22,7 +22,7 @@ Renz@Ameru
 
 ```
 
-<img align="center" src="img/term.jpg" width="260px"/> 
+<img align="center" src="img/term.jpg" width="1060px"/> 
 
 
 ```zsh
