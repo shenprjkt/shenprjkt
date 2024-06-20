@@ -21,6 +21,10 @@ Renz@Ameru
 └────────────────────────────────────────────────┘
 
 ```
+
+<img align="center" src="img/term.jpg" width="260px"/> 
+
+
 ```zsh
 > My Stats LOL
 ```
