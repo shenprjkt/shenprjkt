@@ -6,7 +6,7 @@
 
 ```csharp
 Renz@Ameru
----------------------------------------------------
+┌─────────────────────────────────────────────────┐
   Username: Shandy Reynaldi.
 OS: Garuda Linux "Hyprland"
 Shell: bash 5.1.16
