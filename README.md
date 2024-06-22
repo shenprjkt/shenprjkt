@@ -6,7 +6,7 @@
 
 ### Hi there 👋 I'm shenrn
 - 🌱 I’m learning Android~
-- 🏠 I am a new IT student 
+- 🏠 I am a new IT student, RPL graduate
 - A staunch communist
 - "My hobby is watching anime"
 - "I like Vocaloid"
