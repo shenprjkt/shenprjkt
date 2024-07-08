@@ -1,3 +1,7 @@
+```zsh
+> neofetch
+```
+
 <img align="left" src="img/kana.png" width="300px"/> 
 
 ```csharp
