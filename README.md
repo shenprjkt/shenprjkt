@@ -1,3 +1,23 @@
+<img align="left" src="img/kana.png" width="260px"/> 
+
+```csharp
+Renz@Ameru
+┌────────────────────────────────────────────────┐
+  Username: Shandy Reynaldi.
+  OS: Garuda Linux "Hyprland"
+  Shell: bash 5.1.16
+  Languages: C++, C.
+  Terminal: Kitty.
+  CPU: Intel Xeon E5-2690 (8) @ 3.800GHz.
+  Memory : 297MiB / 15906MiB
+  Telegram: @Shiinaeru.
+  Learning : Android, Kotlin.
+  Hobbies: Novel, Book, Music, and Gaming.
+  Girlfriend: Kana Arima ❤️.
+└────────────────────────────────────────────────┘
+
+```
+
 <img align="center" src="img/term.jpg" width="1060px"/> 
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
