@@ -1,4 +1,4 @@
-<img align="left" src="img/kana.png" width="260px"/> 
+<img align="left" src="img/kana.png" width="300px"/> 
 
 ```csharp
 Renz@Ameru
