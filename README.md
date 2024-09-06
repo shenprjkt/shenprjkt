@@ -1,3 +1,4 @@
+<!--
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
@@ -8,6 +9,22 @@
 - A staunch communist
 - "My hobby is watching anime"
 - "I like Vocaloid"
+-->
+- ### 🌟 About me
+<table frame=void>
+<tr>
+    <td style="vertical-align: top">
+        <img width="300" align="left" src="./img/nagi6.jpg">
+    </td>
+    <td>
+Hi, I'm Ren. I'm always use "RenzAlt/Shenprjkt" to submitting code or accounts. Plz DO NOT call me "Renz" .
+
+Apart from work, I also play games, watch anime, and like learning to use musical instruments such as the piano and drums. I also like making Vocaloid music.
+
+I prefer playing music. Currently, and likes cute things.
+    </td>
+</tr>
+</table>
 
 
 ### 💻 Environment
