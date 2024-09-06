@@ -14,7 +14,7 @@
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="300" align="left" src="./img/nagi6.jpg">
+        <img width="350" align="left" src="./img/nagi6.jpg">
     </td>
     <td>
 Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
