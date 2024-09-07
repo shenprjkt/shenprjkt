@@ -31,7 +31,7 @@ I prefer playing music. Currently, and likes cute things.
 <tr>
     <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
 
-If you also need a partner, please contact me via email (shenameru@gmail.com).
+I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
 
 I prefer playing music. Currently, and likes cute things.
     </td>
