@@ -37,7 +37,7 @@ I prefer playing music. Currently, and likes cute things.
 
 <div align='left'>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/shenprjkt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:shenprjktplayground@gmail.com"><img alt="Gmail" title="Shandy Reynaldi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/Kanarimalt"><img alt="Telegram" title="Arimakana Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
