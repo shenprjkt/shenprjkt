@@ -85,7 +85,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 
 My principle: in studying or working I will never laugh at someone who is trying :v
 
-thank you for the inspiration : @shenprjkt @keiko233 @Nekonify @ReallySnow @Itz-Kanasama @JohnKun136NVCP
+thank you for the inspiration : [@shenprjkt](https://github.com/shenprjkt) [@keiko233](https://github.com/keiko233) [@Nekonify](https://github.com/Nekonify) [@ReallySnow](https://github.com/ReallySnow) [@JohnKun136NVCP](https://github.com/JohnKun136NVCP)
     </td>
 </tr>
 </table>
