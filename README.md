@@ -58,8 +58,8 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </table>
 
 <table frame=void>
-[![QwQ](./assets/banner.jpg)](https://www.pixiv.net/artworks/110380109)
 <tr>
+    [![QwQ](./img/nagi6.jpg)](https://www.pixiv.net/artworks/110380109)
     <td style="vertical-align: top">
         <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
