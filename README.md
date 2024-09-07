@@ -77,7 +77,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="200" align="left" src="./img/nagi1.jpg">
+        <img width="200" align="left" src="./img/nagi4.jpg">
     </td>
 </table>
 
@@ -88,9 +88,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
         <img alt="Java" src="https://img.shields.io/badge/java-f57f7f.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     </td>
     <td>
-        <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-7f83f5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-    </td>
-    <td>
         <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     </td>
     <td>
@@ -98,12 +95,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
     <td>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    </td>
-    <td>
-        <img alt="Swift" src="https://img.shields.io/badge/swift-dea685.svg?style=for-the-badge&logo=swift&logoColor=black">
-    </td>
-    <td>
-        <img alt="Dart" src="https://img.shields.io/badge/dart-79b7c7.svg?style=for-the-badge&logo=dart&logoColor=white">
     </td>
 </tr>
 </table>
