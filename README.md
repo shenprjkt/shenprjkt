@@ -50,7 +50,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <tr>
     <td style="vertical-align: top">
         <img align="left" src="https://streak-stats.demolab.com?user=shenprjkt&theme=highcontrast&hide_border=true&border_radius=1)](https://git.io/streak-stats">
-        # <div align=center></div>
     </td>
     <td>
         <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
@@ -63,6 +62,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
     <td style="vertical-align: top">
         <img align="left" src="https://img.shields.io/badge/Xiaomi%20MSM8956-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121">
     </td>
+     # <div align=center></div>
     <td>
         <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
     </td>
