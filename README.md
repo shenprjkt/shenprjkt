@@ -60,15 +60,15 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="300" align="center" src="./img/nagi4.jpg">
+        <img width="100" align="center" src="./img/nagi4.jpg">
         <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
     <td>
-        <img width="300" align="center" src="./img/nagi4.jpg">
+        <img width="100" align="center" src="./img/nagi4.jpg">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
     <td>
-        <img width="300" align="center" src="./img/nagi4.jpg">
+        <img width="100" align="center" src="./img/nagi4.jpg">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=SnowsProject&repo=kernel_manifests&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
 </tr>
