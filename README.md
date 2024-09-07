@@ -78,7 +78,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="350" align="left" src="./img/nagi4.jpg">
+        <img width="300" align="left" src="./img/nagi4.jpg">
     </td>
     <td>
 Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
