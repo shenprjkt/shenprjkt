@@ -77,7 +77,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <div align=center>
 <table frame=void>
 <tr>
-    <td style="vertical-align: top">
+    <td style="vertical-align: right">
         <img alt="Java" src="https://img.shields.io/badge/java-f57f7f.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     </td>
     <td>
