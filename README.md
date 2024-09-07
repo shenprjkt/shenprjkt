@@ -65,7 +65,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
     <td>
         <img width="250" align="center" src="./img/nagi2.gif">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true(https://github.com/shenprjkt/Kernel_CI)">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true&https://github.com/shenprjkt/Kernel_CI">
     </td>
     <td>
         <img width="250" align="center" src="./img/nagi3.gif">
