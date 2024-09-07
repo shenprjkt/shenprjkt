@@ -76,6 +76,10 @@ I need a job to support myself. If you also need a partner, please contact me vi
 
 <table frame=void>
 <tr>
+    <td style="vertical-align: top">
+        <img width="350" align="right" src="./img/nagi6.jpg">
+    </td>
+<tr>
     <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
 
 I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
@@ -86,9 +90,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
   <a href="mailto:shenprjktplayground@gmail.com"><img alt="Gmail" title="Shandy Reynaldi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/Kanarimalt"><img alt="Telegram" title="Arimakana Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  </p>
-    </td>
-    <td>
-        <img width="200" align="right" src="./img/nagi5.jpg">
     </td>
 </tr>
 </table>
