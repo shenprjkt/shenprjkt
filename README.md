@@ -57,8 +57,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000)
-
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000)](https://github.com/shenprjkt/readme-theme)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
