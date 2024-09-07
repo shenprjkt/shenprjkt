@@ -20,7 +20,7 @@
     <td>
 Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
 
-My principle: in studying or working I will never laugh at someone who is trying
+Apart from work, I also watch anime, and like learning to use musical instruments such as the piano and drums. I also like making Vocaloid music.
 
 I prefer playing music. Currently, and likes cute things.
     </td>
