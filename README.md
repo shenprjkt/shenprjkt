@@ -78,14 +78,14 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="200" align="left" src="./img/nagi4.jpg">
+        <img width="250" align="left" src="./img/nagi4.jpg">
     </td>
     <td>
                                                                         
 
 My principle: in studying or working I will never laugh at someone who is trying :v
 
-Contributor :
+thank you for the inspiration : @shenprjkt @keiko233 @Nekonify @ReallySnow @Itz-Kanasama @JohnKun136NVCP
     </td>
 </tr>
 </table>
