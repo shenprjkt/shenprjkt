@@ -78,7 +78,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="250" align="left" src="./img/nagi4.jpg">
+        <img width="200" align="left" src="./img/nagi4.jpg">
     </td>
     <td>
                                                                         
