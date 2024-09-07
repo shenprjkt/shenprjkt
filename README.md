@@ -74,27 +74,21 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
+
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="350" align="right" src="./img/nagi6.jpg">
+        <img width="350" align="left" src="./img/nagi4.jpg">
     </td>
-<tr>
-    <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
+    <td>
+Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
 
-I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
+Apart from work, I also watch anime, and like learning to use musical instruments such as the piano and drums. I also like making Vocaloid music.
 
-# <div align=center></div>
-<p align="center">
-  <a href="https://github.com/shenprjkt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:shenprjktplayground@gmail.com"><img alt="Gmail" title="Shandy Reynaldi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/Kanarimalt"><img alt="Telegram" title="Arimakana Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
- </p>
+I prefer playing music. Currently, and likes cute things.
     </td>
 </tr>
 </table>
-
-
 
 
 <!--
