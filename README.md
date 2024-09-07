@@ -33,7 +33,7 @@ I prefer playing music. Currently, and likes cute things.
 
 I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
 
-<div align='left'>
+<div align='center'>
 
 <p align="left">
   <a href="https://github.com/shenprjkt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
