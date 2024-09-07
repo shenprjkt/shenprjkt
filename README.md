@@ -12,7 +12,6 @@
 -->
 
 # <div align=center>Welcome to my profile!</div>
-<br>
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
