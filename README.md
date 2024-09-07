@@ -12,7 +12,6 @@
 -->
 
 ## Welcome to my profile!
-- ### 🌟 About me
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
