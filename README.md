@@ -81,7 +81,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
 </table>
 
-<div align=right>
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
@@ -98,7 +97,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
 </tr>
 </table>
-</div>
 
 <!--
 ### 💻 Environment
