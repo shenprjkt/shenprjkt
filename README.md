@@ -74,6 +74,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
+<img width="250" align="left" src="./img/nagi3.gif">
 <div align=center>
 <table frame=void>
 <tr>
