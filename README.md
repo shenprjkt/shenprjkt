@@ -52,7 +52,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
         <img align="left" src="https://streak-stats.demolab.com?user=shenprjkt&theme=highcontrast&hide_border=true&border_radius=1)](https://git.io/streak-stats">
     </td>
     <td>
-        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&highcontrast&count_private=true&hide_border=true">
+        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=0&username=shenprjkt&include_all_commits=true&show_icons=true&highcontrast&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
