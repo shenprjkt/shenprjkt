@@ -80,7 +80,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
         <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=transparent">
     </td>
     <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenprjkt&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowsProject&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
