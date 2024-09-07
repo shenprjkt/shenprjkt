@@ -63,7 +63,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
         <img align="left" src="https://streak-stats.demolab.com?user=shenprjkt&theme=highcontrast&hide_border=true&border_radius=1)](https://git.io/streak-stats">
     </td>
     <td>
-        <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=2077">
+        <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=2077&hide_border=true">
     </td>
 </tr>
 </table>
