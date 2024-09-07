@@ -33,8 +33,6 @@ I prefer playing music. Currently, and likes cute things.
 
 I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
 
-I prefer playing music. Currently, and likes cute things.
-
 <div align='left'>
 
 <p align="left">
