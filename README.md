@@ -57,6 +57,17 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
+<table frame=void>
+<tr>
+    <td style="vertical-align: top">
+        <img align="left" src="[https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000](https://github.com/shenprjkt/readme-theme)">
+    </td>
+    <td>
+        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
+    </td>
+</tr>
+</table>
+
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000)](https://github.com/shenprjkt/readme-theme)
 
 ### 💻 Environment
