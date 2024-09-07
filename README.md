@@ -36,7 +36,7 @@ Apart from work, I also watch anime, and like learning to use musical instrument
 I prefer playing music. Currently, and likes cute things.
     </td>
     <td>
-        <img width="200" align="right" src="./img/nagi6.jpg">
+        <img width="200" align="right" src="./img/nagi5.jpg">
     </td>
 </tr>
 </table>
