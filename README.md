@@ -46,6 +46,18 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
+- ### 📊 Stats
+<table frame=void>
+<tr>
+    <td style="vertical-align: top">
+        <img align="left" src="https://streak-stats.demolab.com?user=shenprjkt&theme=highcontrast&border_radius=1)](https://git.io/streak-stats">
+    </td>
+    <td>
+        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
+    </td>
+</tr>
+</table>
+
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
