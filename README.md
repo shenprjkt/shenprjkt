@@ -81,7 +81,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
 </table>
 
-<div align=center>
+<div align=left>
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
