@@ -74,29 +74,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
-<table frame=void>
-<tr>
-    <td>
-        <img alt="Java" src="https://img.shields.io/badge/java-f57f7f.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    </td>
-    <td>
-        <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    </td>
-    <td>
-        <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
-    </td>
-    <td>
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    </td>
-<tr>
-    <td style="vertical-align: top">
-        <img width="200" align="left" src="./img/nagi4.jpg">
-    </td
-    <td>
-        <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
-    </td>
-</tr>
-</table>
 
 <!--
 ### 💻 Environment
