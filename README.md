@@ -76,10 +76,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 
 <table frame=void>
 <tr>
-    <td style="vertical-align: top">
-        <img width="200" align="left" src="./img/nagi4.jpg">
-    </td>
-<tr>
     <td>
         <img alt="Java" src="https://img.shields.io/badge/java-f57f7f.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     </td>
@@ -92,6 +88,10 @@ I need a job to support myself. If you also need a partner, please contact me vi
     <td>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </td>
+<tr>
+    <td style="vertical-align: top">
+        <img width="200" align="left" src="./img/nagi4.jpg">
+    </td
 </tr>
 </table>
 
