@@ -60,17 +60,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img align="left" src="https://streak-stats.demolab.com?user=shenprjkt&theme=highcontrast&hide_border=true&border_radius=1)](https://git.io/streak-stats">
-    </td>
-    <td>
-        <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=transparent">
-    </td>
-</tr>
-</table>
-
-<table frame=void>
-<tr>
-    <td style="vertical-align: top">
         <img width="250" align="center" src="./img/nagi1.gif">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
@@ -85,6 +74,16 @@ I need a job to support myself. If you also need a partner, please contact me vi
 </tr>
 </table>
 
+<table frame=void>
+<tr>
+    <td style="vertical-align: top">
+        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=transparent">
+    </td>
+    <td>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenprjkt&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
+    </td>
+</tr>
+</table>
 
 <table frame=void>
 <tr>
