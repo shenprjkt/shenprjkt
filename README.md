@@ -38,9 +38,7 @@ Apart from work, I also watch anime, and like learning to use musical instrument
 
 I prefer playing music. Currently, and likes cute things.
     </td>
-    <td style="vertical-align: top">
-        <img width="200" align="left" src="./img/nagi6.jpg">
-    </td>
+   <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 </tr>
 </table>
 
