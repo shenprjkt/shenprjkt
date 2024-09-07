@@ -83,7 +83,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
     <td>
                                                                         
 
-Apart from work, I also watch anime, and like learning to use musical instruments such as the piano and drums. I also like making Vocaloid music.
+My principle: in studying or working I will never laugh at someone who is trying :v
 
 I prefer playing music. Currently, and likes cute things.
     </td>
