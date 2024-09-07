@@ -26,7 +26,7 @@ I prefer playing music. Currently, and likes cute things.
 </tr>
 </table>
 
-### 📊 Stats
+- ### 📊 Stats
 <table frame=void>
 <tr>
     <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
