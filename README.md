@@ -29,8 +29,11 @@ I prefer playing music. Currently, and likes cute things.
 ### 📊 Stats
 <table frame=void>
 <tr>
-    <td style="vertical-align: top">
-        <img align="left" src="https://moe-counter.es3n1n.eu/get/@shenprjkt" />
+    <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
+
+Apart from work, I also watch anime, and like learning to use musical instruments such as the piano and drums. I also like making Vocaloid music.
+
+I prefer playing music. Currently, and likes cute things.
     </td>
     <td>
         <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
