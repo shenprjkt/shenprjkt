@@ -11,7 +11,7 @@
 - "I like Vocaloid"
 -->
 
-## Welcome to my profile!
+# <div align=center>Welcome to my profile!</div>
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
