@@ -26,6 +26,7 @@ I prefer playing music. Currently, and likes cute things.
 </tr>
 </table>
 
+- ### 🌟 About me 2
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
