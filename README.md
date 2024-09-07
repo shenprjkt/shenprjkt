@@ -92,6 +92,9 @@ I need a job to support myself. If you also need a partner, please contact me vi
     <td style="vertical-align: top">
         <img width="200" align="left" src="./img/nagi4.jpg">
     </td
+    <td>
+        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=highcontrast&count_private=true&hide_border=true">
+    </td>
 </tr>
 </table>
 
