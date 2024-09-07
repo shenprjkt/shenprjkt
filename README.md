@@ -75,25 +75,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <img src=https://moe-counter.es3n1n.eu/get/@shenprjkt width="500px" />
 
 </div>
-
-    
-<br>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shenprjkt&theme=youtube-dark)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width ="80"><b>Let's Connect..!</b>
-<br>
-<div align='left'>
-
 <p align="center">
   <a href="https://github.com/shenprjkt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:shenprjktplayground@gmail.com"><img alt="Gmail" title="Shandy Reynaldi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
