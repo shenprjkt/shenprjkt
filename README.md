@@ -80,7 +80,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
         <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenprjkt&theme=transparent">
     </td>
     <td>
-        <img align="right" src="./img/carbon (1).png">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenprjkt&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
@@ -96,17 +96,6 @@ I need a job to support myself. If you also need a partner, please contact me vi
 My principle: in studying or working I will never laugh at someone who is trying :v
 
 thank you for the inspiration : [@shenprjkt](https://github.com/shenprjkt) [@keiko233](https://github.com/keiko233) [@Nekonify](https://github.com/Nekonify) [@ReallySnow](https://github.com/ReallySnow) [@JohnKun136NVCP](https://github.com/JohnKun136NVCP)
-    </td>
-</tr>
-</table>
-
-<table frame=void>
-<tr>
-    <td style="vertical-align: top">
-        <img align="left" src="./img/carbon (1).png">
-    </td>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenprjkt&layout=compact&theme=highcontrast&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
