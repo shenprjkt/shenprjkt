@@ -34,6 +34,7 @@ I prefer playing music. Currently, and likes cute things.
 I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
 
 # <div align=center></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
   <a href="https://github.com/shenprjkt"><img alt="Github" title="Arimakana Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:shenprjktplayground@gmail.com"><img alt="Gmail" title="Shandy Reynaldi Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
