@@ -94,7 +94,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
     <td>
                                                                         
 
-My principle: in studying or working I will never laugh at someone who is trying :v
+My principle: when studying or working, I will never laugh at people who are trying even once: v
  
 and don't forget to credit, thank you for the inspiration : 
 
