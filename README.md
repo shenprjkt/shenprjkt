@@ -96,10 +96,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
 
 My principle: in studying or working I will never laugh at someone who is trying :v
  
-and don't forget to credit, thank you for the inspiration : [![Contributor](https://contrib.rocks/image?repo=shenprjkt/shenprjkt)](https://github.com/shenprjkt)
-[![Contributor](https://contrib.rocks/image?repo=keiko233/keiko233)](https://github.com/keiko233)
-[![Contributor](https://contrib.rocks/image?repo=ReallySnow/ReallySnow)](https://github.com/ReallySnow)
-[![Contributor](https://contrib.rocks/image?repo=JohnKun136NVCP/JohnKun136NVCP)](https://github.com/JohnKun136NVCP)
+and don't forget to credit, thank you for the inspiration : 
 
 [![Contributor](https://contrib.rocks/image?repo=shenprjkt/shenprjkt)](https://github.com/shenprjkt)
 [![Contributor](https://contrib.rocks/image?repo=keiko233/keiko233)](https://github.com/keiko233)
