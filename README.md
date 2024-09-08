@@ -99,6 +99,8 @@ thank you for the inspiration : [@shenprjkt](https://github.com/shenprjkt) [@kei
 
 <img src="https://contrib.rocks/image?repo=shenprjkt/shenprjkt">
 <img src="https://contrib.rocks/image?repo=keiko233/keiko233">
+<img src="https://contrib.rocks/image?repo=ReallySnow/ReallySnow">
+<img src="https://contrib.rocks/image?repo=JohnKun136NVCP/JohnKun136NVCP">
     </td>
 </tr>
 </table>
