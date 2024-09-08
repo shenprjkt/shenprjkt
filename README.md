@@ -96,6 +96,8 @@ I need a job to support myself. If you also need a partner, please contact me vi
 My principle: in studying or working I will never laugh at someone who is trying :v
 
 thank you for the inspiration : [@shenprjkt](https://github.com/shenprjkt) [@keiko233](https://github.com/keiko233) [@Nekonify](https://github.com/Nekonify) [@ReallySnow](https://github.com/ReallySnow) [@JohnKun136NVCP](https://github.com/JohnKun136NVCP)
+
+[![Contributor](https://contrib.rocks/image?repo=DogDayAndroid/Android-Builder)](https://github.com/DogDayAndroid/Android-Builder/graphs/contributors)
     </td>
 </tr>
 </table>
