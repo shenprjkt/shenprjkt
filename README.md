@@ -97,8 +97,8 @@ My principle: in studying or working I will never laugh at someone who is trying
 
 thank you for the inspiration : [@shenprjkt](https://github.com/shenprjkt) [@keiko233](https://github.com/keiko233) [@Nekonify](https://github.com/Nekonify) [@ReallySnow](https://github.com/ReallySnow) [@JohnKun136NVCP](https://github.com/JohnKun136NVCP)
 
-[![Contributor](https://contrib.rocks/image?repo=shenprjkt/shenprjkt)
-[![Contributor](https://contrib.rocks/image?repo=keiko233/keiko233)
+[Contributor](https://contrib.rocks/image?repo=shenprjkt/shenprjkt)
+[Contributor](https://contrib.rocks/image?repo=keiko233/keiko233)
     </td>
 </tr>
 </table>
