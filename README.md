@@ -11,11 +11,7 @@
 - "I like Vocaloid"
 -->
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=2500&pause=1500&color=FF3183&center=true&vCenter=true&multiline=true&random=false&width=435&height=135&lines=Hi+%F0%9F%91%8B;Here+is+Ren+%F0%9F%A4%9D;Let's+connect+%F0%9F%93%B2" alt="Typing SVG" /></a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <div align=center>Welcome to my profile!</div>
 
 <table frame=void>
 <tr>
