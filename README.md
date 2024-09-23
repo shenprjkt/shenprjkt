@@ -106,10 +106,6 @@ and don't forget to credit, thank you for the inspiration :
 </tr>
 </table>
 
-<p align="center"> 
-  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-sig.vercel.app/card?user=shenprjkt&mode=std&lang=en&blur=6&animation=true&skills=true" width="600" /></a>
-</p>
-
 <!--
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
