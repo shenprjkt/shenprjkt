@@ -107,10 +107,8 @@ and don't forget to credit, thank you for the inspiration :
 </table>
 
 <p align="center"> 
-  <a href="https://github.com/shenprjkt/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=shenprjkt&mode=std&animation=true&lang=en&skills=true" width="600" /></a>
+  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-sig.vercel.app/card?user=shenprjkt&mode=std&lang=en&blur=6&animation=true&skills=true" width="600" /></a>
 </p>
-
-![osu! signature card](/card?user=shenprjkt&mode=std&lang=en&blur=6&animation=true&skills=true)
 
 <!--
 ### 💻 Environment
