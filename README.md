@@ -106,6 +106,10 @@ and don't forget to credit, thank you for the inspiration :
 </tr>
 </table>
 
+<p align="center"> 
+  <a href="https://github.com/shenprjkt/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=solstice23&mode=std&animation=true&lang=en&skills=true" width="600" /></a>
+</p>
+
 
 <!--
 ### 💻 Environment
