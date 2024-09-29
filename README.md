@@ -16,7 +16,7 @@
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="350" align="left" src="./img/mio2.jpeg">
+        <img width="270" align="left" src="./img/mio2.jpeg">
     </td>
     <td>
 Hi, I'm Ren. I always use "RenzAlt" to post codes or accounts. Please DO NOT call me "Renz".
@@ -42,7 +42,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
  </p>
     </td>
     <td>
-        <img width="200" align="right" src="./img/mio3.jpeg">
+        <img width="270" align="right" src="./img/mio3.jpeg">
     </td>
 </tr>
 </table>
@@ -61,15 +61,12 @@ I need a job to support myself. If you also need a partner, please contact me vi
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="235" align="center" src="./img/nagi1.gif">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=readme-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
     <td>
-        <img width="235" align="center" src="./img/nagi2.gif">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=shenprjkt&repo=Kernel_CI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
     <td>
-        <img width="235" align="center" src="./img/nagi3.gif">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=SnowsProject&repo=kernel_manifests&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=000000&hide_border=true&show_owner=true">
     </td>
 </tr>
