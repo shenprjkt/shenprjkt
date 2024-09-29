@@ -16,7 +16,7 @@
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img width="300" align="left" src="./img/mio2.jpeg">
+        <img width="270" align="left" src="./img/mio2.jpeg">
     </td>
     <td>
 Hi, I'm Ren. I always use "RenzAlt" to post codes or accounts. Please DO NOT call me "Renz".
@@ -42,7 +42,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
  </p>
     </td>
     <td>
-        <img width="270" align="right" src="./img/mio3.jpeg">
+        <img width="300" align="right" src="./img/mio3.jpeg">
     </td>
 </tr>
 </table>
