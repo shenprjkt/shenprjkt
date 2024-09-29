@@ -42,7 +42,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
  </p>
     </td>
     <td>
-        <img width="300" align="right" src="./img/mio3.jpeg">
+        <img width="200" align="right" src="./img/mio3.jpeg">
     </td>
 </tr>
 </table>
