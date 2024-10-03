@@ -103,6 +103,8 @@ and don't forget to credit, thank you for the inspiration :
 </tr>
 </table>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1279360245159694394)](https://discord.com/users/1279360245159694394)
+
 <!--
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
