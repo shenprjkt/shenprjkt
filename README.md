@@ -15,21 +15,6 @@
 
 <table frame=void>
 <tr>
-    <td style="vertical-align: top">
-        <img width="270" align="left" src="./img/mio2.jpeg">
-    </td>
-    <td>
-Hi, I'm Ren. I always use "RenzAlt" to post codes or accounts. Please DO NOT call me "Renz".
-
-Apart from work, I also like watching romance-themed anime, and contribute to many projects.
-
-I prefer playing music. Currently, and likes cute things.
-    </td>
-</tr>
-</table>
-
-<table frame=void>
-<tr>
     <td Hi, I'm Ren. I'm always use "RenzAlt" to submitting code or accounts. Plz DO NOT call me "Renz".
 
 I need a job to support myself. If you also need a partner, please contact me via email(shenameru@gmail.com).
